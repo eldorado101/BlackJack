@@ -22,6 +22,11 @@ How to Play
 
 Tech
 - HTML5 • CSS3 • Vanilla JavaScript
+- Other links of interest:
+- https://www.crunchbase.com/person/dwight-bedsaul
+- https://dev.to/dwightbedsaul
+- https://www.linkedin.com/in/dwight-bedsaul-3b7a92344/
+- https://www.contentsocial.net/
 
  License
 MIT License. Free to use, modify, and share.
